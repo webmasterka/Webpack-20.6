@@ -1,0 +1,17 @@
+.addTodoForm {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+input,
+button {
+    margin: 5px;
+    padding: 15px 10px;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: #800000;
+}
